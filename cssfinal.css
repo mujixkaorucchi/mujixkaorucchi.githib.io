@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0; padding: 0}
+.subheader{background-color: 
+			rgba(223,223,223,1.00)}
+.header .logo{width: 200px; 
+				padding: 1% 1% 0 1.5%}
+.subheader li{display: inline}
+.subheader {padding: 10px 0 10px 55%; 
+			margin-bottom: 10px}
+.subheader .student,.store,.contact{margin: 0px 20px}
+.subheader img{width:2%}
+.subheader .language{padding-left: 20px}
+.language{display:inline}
+.header ul li{display: inline}
+.header ul{display: inline; 
+			float:right; 
+			padding: 20px 0px 0px 20px}
+.header input{display:inline; 
+				float:right; 
+				padding: 10px 15px; 
+				margin: 10px 40px 10px 50px}
+.header li{margin:40px}
+.header hr{margin:20px 0;width: inherit}
+.header input{background-color:transparent;
+			border:none;
+			border:1px solid black;
+			border-radius:5px}
+.header input:hover{background-color: black;
+					color:white}
+.bannerheader img{margin:5px 0;
+					width: 100%}
+.mujiproduct {display: flex; 
+				justify-content: space-around;
+					margin:30px}
+.mujiproduct img{width:20%; height:20%; margin-bottom: 20px}
+.aboutus {background-color:#E5E5E5; 
+			text-align:center;
+	padding: 70px 0 0 0;}
+.aboutus h3{margin:20px 0 0 0}
+.aboutus img{width:200px}
+.aboutus  hr{border: 1px solid #7E161D;
+					width:5%; margin: auto;}
+.aboutus p{padding:10px 200px 90px;}
+.stories .content1{display:inline-block}
+.stories .content1{padding: 0px 0px 0px 20%}
+.stories .content1 p{width:300px}
+.stories .content1{margin: 0px 10% 5% 0px}
+.stories img{padding:60px 0 0 0}
+.stories a{color: #7E161D}
+.subheader ul li a{text-decoration:none;
+					color:black}
+.subheader ul li a:hover{color:#7E161D}
+.header ul li a{text-decoration:none;
+				color: black}
+.header ul li a:hover{color:#7E161D}
+.newcd{position:relative}
+.newcd span{position: absolute;
+			top:15%; left:70%;right:10%}
+.newcd img{width:100%}
+.newcd h1{padding:0px 30px 20px 30px;
+		color:#ECECEC}
+.newcd span{margin:0px 0px 20px 0;color:#ECECEC}
+.newcd input{margin:20px;
+			padding: 15px; 
+			color:#ECECEC;
+			background-color:transparent;
+			border:none;
+			border:1px solid white;
+			border-radius:5px}
+.newcd input:hover{background-color: black;
+					border:none;
+					color:white}
+.newcd .content2,.text2{margin:20px}
+.event {margin:50px 0;}
+.headerevent{text-align:center;
+			margin:50px 0;
+			color:#7E161D}
+.event{padding:0 50px}
+.event img{width:300px}
+.event h3{text-align: center;
+		color:#7E161D}
+.event p{width:300px;
+		text-align: left}
+.event {display: flex;
+		justify-content: space-around;
+		text-align: center;}
+.event a{color:#474646;
+		text-decoration: underline}
+.event a:hover{color:#7E161D;
+				text-decoration:underline;}
+.services{background-color:#E5E5E5;}
+.services img{width:70px;}
+.services p{width:250px;
+			margin-top:10px}
+.services{display:flex;
+		justify-content:space-around;
+		padding:50px;
+		text-align:center}
+.signup hr{margin: 0px 90px 40px 90px;}
+.signup h2{text-align:center;
+			margin-bottom:30px;
+			color:#7E161D}
+.signup p{text-align:center;
+			width:50%;margin:auto}
+.signup .space{display:flex;
+				justify-content:center;
+				padding:30px 0}
+.address{width:300px; height:40px;
+		border-radius:5px;
+		border:1px solid black}
+.join{width:80px; margin:0px 15px;
+			color:#FFFFFF;
+			background-color:#7E161D;
+			border:none;
+			border-radius:5px}
+.join:hover{background-color:#000000;
+					border:none;
+					color:white}
+.signup a{color:#7E161D}
+.footer .logo{width:200px;padding:20px 20px 0 20px}
+.footer .map{width:100%}
+.information{text-align:center;margin:auto}
+.information img{width:100px}
+.footer{padding-bottom:50px}
+.footer hr{width:10%;
+		margin:auto;
+		margin-top:20px}
